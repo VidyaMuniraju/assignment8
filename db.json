@@ -1,0 +1,20 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "myCofee",
+      "emailAddress": "dev244@bignerdranch.com",
+      "size": "tall",
+      "flavor": "almond",
+      "strength": "75",
+      "id": "SJ7bmNdnl"
+    },
+    {
+      "coffee": "sfdhgff",
+      "emailAddress": "born@bignerdranch.com",
+      "size": "grande",
+      "flavor": "almond",
+      "strength": "30",
+      "id": "SJjimrxpl"
+    }
+  ]
+}
